@@ -2,4 +2,4 @@
 중첩 RecyclerView 간단 구현
 
 실행 결과
-<img width="233" alt="스크린샷 2022-10-04 00 22 56" src="https://user-images.githubusercontent.com/55117867/193739148-d4f694c5-ea98-44a9-a2f8-45b06205cdf6.png">
+![Screenshot_20221004_140625](https://user-images.githubusercontent.com/55117867/193739204-6375287f-fbe1-4351-a0c3-dc51f6643413.png)
